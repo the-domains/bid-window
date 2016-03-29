@@ -1,0 +1,28 @@
+name: Bid Window
+favicon: null
+layout_spectrum: 0.9083334233146161
+typography_spectrum: 0.12781005213037133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6212415269110352
+  lightness: 0.8315131654962897
+  saturation: 0.34039385546930134
+  rhythmicContrast: 0.5157587993890047
+purpose: []
